@@ -5,6 +5,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavyGoal&theme=dark&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HeavyGoal)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HeavyGoal&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/HeavyGoal)  
