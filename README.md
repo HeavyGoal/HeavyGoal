@@ -7,4 +7,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HeavyGoal&theme=dark)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Profile views](https://gpvc.arturio.dev/HeavyGoal)  
