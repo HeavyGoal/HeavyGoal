@@ -1,6 +1,4 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/dd363a4c5a3331e0aace0de8bd4ca549743de6c223c6bcc50b510e8dec87132f/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3532306561623834653462303264353636303538316262622f313536303839303432303035352d4f55334134364a5757563554425a544b323135512f6d6174742d616e646572736f6e2d63616e6f70792d646973636f72642d64696f72616d61732d6c6f73742d776f6f64732d6d61696e2e706e673f666f726d61743d3235303077" height="175px"/></a>
-## My Badges
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ## 📊 My Github Stats
  
  <p align="center">
@@ -15,3 +13,7 @@
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <b>Note:</b> This information might be <b>Out Of Date</b>.
+## ❤ Contact Me
+<a href = "https://www.discord.com/My Discord/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://www.spotify.con/my_artist_page"><img src="https://img.icons8.com/color/48/000000/spotify.png"/></a>
+<a href = "https://www.youtube.com/channel/UCJOph0M71WAd7OMgT8zQVlg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
