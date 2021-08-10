@@ -3,7 +3,8 @@
  
  <p align="center">
    <a href="https://github.com/HeavyGoal/github-readme-stats"><img alt="HeavyGoal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeavyGoal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/HeavyGoal/github-readme-stats"><img alt="HeavyGoal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGoal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>/p>
 
 <p align="center">
     <a href="https://github.com/HeavyGoal/github-readme-streak-stats">
