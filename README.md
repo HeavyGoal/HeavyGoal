@@ -2,9 +2,9 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/HeavyGoal)  
+![GitHub metrics](<img align="center" src= "https://metrics.lecoq.io/HeavyGoal") 
 
-[![Top Langs]<center>(https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGoal&theme=dark&layout=compact)</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGoal&theme=dark&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavyGoal&theme=dark&show_icons=true)
 
