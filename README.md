@@ -5,7 +5,7 @@
  
 ![GitHub metrics](https://metrics.lecoq.io/HeavyGoal)  
  
- </p>
+</p>
 ## 📊 My Github Stats
  
  <p align="center">
