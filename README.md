@@ -18,4 +18,3 @@
 <a href = "https://www.discord.com/My Discord/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 <a href = "https://www.spotify.con/my_artist_page"><img src="https://img.icons8.com/color/48/000000/spotify.png"/></a>
 <a href = "https://twitch.tv/twitch_username"><img src="https://img.icons8.com/color/48/000000/twitch.png"/></a>
-<a href = "https://www.youtube.com/channel/UCJOph0M71WAd7OMgT8zQVlg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
