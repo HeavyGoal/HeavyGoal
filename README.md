@@ -14,6 +14,8 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <b>Note:</b> This information might be <b>Out Of Date</b>.
 ## ❤ Contact Me
+<a href = "https://github.com/HeavyGoal"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href = "https://www.discord.com/My Discord/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 <a href = "https://www.spotify.con/my_artist_page"><img src="https://img.icons8.com/color/48/000000/spotify.png"/></a>
+<a href = "https://twitch.tv/twitch_username"><img src="https://img.icons8.com/color/48/000000/twitch.png"/></a>
 <a href = "https://www.youtube.com/channel/UCJOph0M71WAd7OMgT8zQVlg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
