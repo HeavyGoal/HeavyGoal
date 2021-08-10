@@ -3,9 +3,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/HeavyGoal)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavyGoal&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavyGoal&theme=dark&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HeavyGoal)  
 
