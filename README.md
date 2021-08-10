@@ -2,7 +2,7 @@
 
 
 
-![GitHub metrics](<img align="center" src= "https://metrics.lecoq.io/HeavyGoal") 
+![GitHub metrics]<a href="https://github.com/anuraghazra/github-readme-stats">(https://metrics.lecoq.io/HeavyGoal) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGoal&theme=dark&layout=compact)
 
