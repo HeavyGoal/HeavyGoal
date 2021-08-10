@@ -2,7 +2,8 @@
 ## 📊 My Github Stats
  
  <p align="center">
-     <a href="https://metrics.lecoq.io/HeavyGoal"></a></p>
+![GitHub metrics](https://metrics.lecoq.io/HeavyGoal)  
+ </p>
  
  <p align="center">
    <a href="https://github.com/HeavyGoal/github-readme-stats"><img alt="HeavyGoal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeavyGoal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
