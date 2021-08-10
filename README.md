@@ -3,9 +3,7 @@
 ##
 <p align="center">
  
-![GitHub metrics](https://metrics.lecoq.io/HeavyGoal)  
- 
-</p>
+<a href="https://camo.githubusercontent.com/346848bb2184c84f132493e3e5f36547d1305a40042f1c7234454b8b6add3d30/68747470733a2f2f6d6574726963732e6c65636f712e696f2f4865617679476f616c"></a></p>
 ## 📊 My Github Stats
  
  <p align="center">
