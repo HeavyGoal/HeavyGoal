@@ -1,2 +1,5 @@
-# me lol
-uyjyj
+To bolden the text, wrap it with two asterisks (*) (**word**)
+To italisize the text, wrap it with one asterisk (*) (*word*)
+To strikethrough the text, wrap it with two tildes (~) (~~word~~)
+To make a link, place the link text in brackets and the url in parentheses ([link](http://example.com))
+To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png))
